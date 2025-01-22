@@ -13,7 +13,7 @@
     var answer float64 = 0
     ```
   * output: `fmt.Printf("%4.2f\n", 1.0/3)`
-  [example](assignment_2.go#62)
+  [example](assignment_2.go#L62)
   * to calculate more precisely, first do multipulation then division
     ```
     21.0 * 9.0 / 5.0
@@ -24,7 +24,7 @@
     x += 0.2
     fmt.Println(math.Abs(x-0.3)<0.0001)
     ```
-    [example](assignment_2.go#72)
+    [example](assignment_2.go#L72)
 * int
   * 8 precision types: `int8`,`uint8`,`int16`,`uint16`,`int32`,`uint32`,`int64`,`uint64`
   * print the type of variables: `fmt.Printf("%T",x)`
@@ -33,7 +33,7 @@
     var green ynit8 = 3
     fmt.Printf("%b", x)
     ```
-    [example](assignment_2.go#81)
+    [example](assignment_2.go#L81)
   * maximum value of `int`: `math.MaxInt16`
 * big numbers
   * use `float`: `var distance float64 = 24e18`
@@ -48,7 +48,7 @@
   * untyped constant: 
   `const distance = 240000000000000000`
     * a untyped constant must be declared as `float` when assigning an integer that exceeds the range of `int`
-    * [example](assignment_2.go#89)
+    * [example](assignment_2.go#L89)
 * string
   * declare a string:
     ```
@@ -71,7 +71,7 @@
         c := str[i]
       }
     ```
-    [example](assignment_2.go#99)
+    [example](assignment_2.go#L99)
 * coverting between types
   * `int()`, `flaot64()`, `string()`
   * integer to string: `strconv.Itoa()` and `fmt.Sprintf()`
@@ -86,20 +86,20 @@
 ## Expermiment
 - **Expermiment 1**  
 ![exp 1](../images/ass_2_piggy.png)
-[solution](assignment_2.go#9)
+[solution](assignment_2.go#L9)
 <br>
 
 - **Expermiment 2**  
 ![exp 2](../images/ass_2_big_num.png)
-[solution](assignment_2.go#20)
+[solution](assignment_2.go#L20)
 <br>
 
 - **Expermiment 3**  
 ![exp 3](../images/ass_2_string.png)
-[solution](assignment_2.go#28)
+[solution](assignment_2.go#L28)
 <br>
 
 - **Expermiment 4**  
 ![exp 3](../images/ass_2_type.png)
-[solution](assignment_2.go#49)
+[solution](assignment_2.go#L49)
 <br>

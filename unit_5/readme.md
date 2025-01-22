@@ -128,21 +128,21 @@ fmt.Println(string(c))  // output: -14∘35'22.2''S
 ![exp 1](../images/ass_5_struct_1.png)
 ![exp 1](../images/ass_5_struct_2.png)
 ![exp 1](../images/ass_5_struct_3.png)
-[solution](assignment_5.go#9)
+[solution](assignment_5.go#L9)
 <br>
 
 - **Expermiment 2**  
 ![exp 2](../images/ass_5_method_1.png)
 ![exp 2](../images/ass_5_method_2.png)
-[solution](assignment_5.go#37)
+[solution](assignment_5.go#L37)
 <br>
 
 - **Expermiment 3**  
 ![exp 3](../images/ass_5_attach_method.png)
-[solution](assignment_5.go#80)
+[solution](assignment_5.go#L80)
 <br>
 
 - **Expermiment 4**  
 ![exp 4](../images/ass_5_interface.png)
-[solution](assignment_5.go#125)
+[solution](assignment_5.go#L125)
 <br>

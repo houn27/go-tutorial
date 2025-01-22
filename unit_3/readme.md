@@ -65,13 +65,13 @@ func main() {
     return k
   }
   ```
-  [solution](assignment_3.go#20)
+  [solution](assignment_3.go#L20)
 <br>
 
 - **Expermiment 2**  
 ![exp 2](../images/ass_3_method.png)
 ![exp 2](../images/ass_3_method_2.png)
-[solution](assignment_3.go#51)
+[solution](assignment_3.go#L51)
 <br>
 
 - **Expermiment 3**  

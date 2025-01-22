@@ -124,17 +124,17 @@
 - **Expermiment 1**  
 ![exp 2](../images/ass_4_array_1.png)
 ![exp 2](../images/ass_4_array_2.png)
-[solution](assignment_4.go#8)
+[solution](assignment_4.go#L8)
 <br>
 
 - **Expermiment 2**  
 ![exp 2](../images/ass_4_slice.png)
-[solution](assignment_4.go#23)
+[solution](assignment_4.go#L23)
 <br>
 
 - **Expermiment 3**  
 ![exp 3](../images/ass_4_map.png)
-[solution](assignment_4.go#34)
+[solution](assignment_4.go#L34)
 <br>
 
 - **Expermiment 4**  

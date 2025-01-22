@@ -9,7 +9,7 @@
     fmt.Printf("%-15v $%4v", "SpaceX",94)
     \\ output: SpaceX       $  94
     ```
-    [example](assignment_1.go#63)
+    [example](assignment_1.go#L63)
 * constant & variable
     ```
     const lightspeed=299792
@@ -34,11 +34,11 @@
 no "++" in Go, but `x+=1`
 
 * random number gernerator: `rand.Intn(n int)`
-  [example](assignment_1.go#57)
+  [example](assignment_1.go#L57)
 
 ##### Loops & branches
 * branch structure: `if` and `switch & case`
-  [example](assignment_1.go#46)
+  [example](assignment_1.go#L46)
 * logical operators: `&&`, `||` and `!`
     ```
     var haveTorch = true
@@ -54,20 +54,20 @@ no "++" in Go, but `x+=1`
         fmt.Println(i)
     }
     ```
-    [example](assignment_1.go#69)
+    [example](assignment_1.go#L69)
 
 <br>
 
 ## Expermiment
 - **Expermiment 1**  
 ![ass 1](../images/ass_1_guess.png)
-[solution](../assignment_1.go#9)
+[solution](assignment_1.go#L9)
 <br>
 
 - **Expermiment 2**  
 ![ass 2](../images/ass_1_random_1.png)
 ![ass 2](../images/ass_1_random_2.png)
-[solution](assignment_1.go#24)
+[solution](assignment_1.go#L24)
 <br>
 
 
